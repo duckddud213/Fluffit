@@ -2,6 +2,9 @@
 
 ### 꾸준한 운동을 통해 성장하는 캐릭터
 
+## 프로젝트 소개
+🏆 SSAFY 10기 2학기 자율 우수 프로젝트 🏆
+
 ## 소개 영상
 
 - https://www.youtube.com/watch?v=i7rYnWb5ZMk
